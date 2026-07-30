@@ -26,8 +26,8 @@ def unbound_mech_kipp(dumpfile_list):
         
     Parameters
     ----------
-    files_sufix : list of strings
-        Prefix of the dumpfiles  
+    dumpfile_list : list of strings
+        A list of the filepaths of the dumpfiles to be analysed  
         
     Returns
     -------
